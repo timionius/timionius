@@ -1,14 +1,62 @@
-# Hi, I'm Dmitry 👋 | Systems Architect & Engineering Leader
+# Hi, I'm Dmitry 👋
 
-Systems Engineer and Tech Lead with 20+ years of experience spanning High-Performance Distributed Systems, Enterprise Architecture (ERP/SAP/Axapta), and Cross-Platform Infrastructure.
+**Principal Engineer focused on high-performance software, platform engineering, and systems programming.**
 
-## 🛠 What You'll Find on My GitHub:
-* **Performance & Benchmarking:** Most of my public repositories focus on **low-level systems performance evaluation**, benchmarking cross-platform frameworks, compilation speeds, and runtime overhead (C++, Swift, Kotlin, Dart).
-* **Cross-Platform Integration:** Engineering deep infrastructure bridges between native platforms and high-performance core logic.
+For over 20 years I've been designing and building software across startups and enterprise environments—from low-level native libraries and cross-platform SDKs to cloud-native backend platforms and engineering organizations.
 
-## 🔒 Proprietary & NDA Projects:
-Please note that my most recent high-load backend systems and **Rust / Solana Foundation infrastructure libraries** are closed-source and protected by strict NDAs. I am always happy to discuss my architectural approaches, system design decisions, and team leadership methodologies during technical interviews.
+I enjoy understanding how systems work, measuring trade-offs, and building software that's reliable, maintainable, and efficient.
 
-## 🧰 Core Tech Stack:
-- `Systems & Backend:` Rust, C++, Python, SQL (Oracle, MS SQL, PL/SQL), System Design
-- `Client & Infrastructure:` Kotlin, Swift, Flutter, Cross-Platform Engineering, Performance Optimization
+## Public repositories
+
+My GitHub primarily contains engineering experiments, benchmarking projects, and reference implementations.
+
+These projects explore topics including:
+
+* **Systems programming** with Rust and C++
+* **Performance benchmarking** across languages, runtimes, and frameworks
+* **Cross-platform SDKs** and native interoperability (FFI, JNI, Kotlin Multiplatform)
+* **Software architecture** and implementation trade-offs
+* **Developer tooling** and infrastructure experiments
+
+Rather than polished products, these repositories document my engineering process—exploring ideas, validating assumptions, and comparing approaches.
+
+## Professional work
+
+Most of my production work isn't public.
+
+Over the years I've designed and built:
+
+* Event-driven backend platforms
+* Cloud-native services
+* Cross-platform SDKs
+* Mobile and backend infrastructure
+* Engineering platforms used in production
+
+My recent work—including Rust infrastructure libraries and Solana Foundation-funded projects—is proprietary and protected by commercial agreements and NDAs.
+
+I'm always happy to discuss architecture, system design, performance engineering, and engineering leadership during technical interviews.
+
+## Technologies
+
+**Systems:** Rust • C++ • Python
+
+**Platform:** Kotlin • Swift • Kotlin Multiplatform • Flutter
+
+**Architecture:** Platform Engineering • Event-Driven Systems • Cross-Platform SDKs • Performance Engineering
+
+**Infrastructure:** Docker • Google Cloud Platform • Firebase • CI/CD
+
+## Current interests
+
+* Platform Engineering
+* Systems Programming
+* Developer Tools
+* AI Infrastructure
+* Web3 Infrastructure
+* High-Performance Software
+
+---
+
+📍 Tbilisi, Georgia • Remote-first
+
+Currently open to **Principal Engineer**, **Engineering Lead**, **Systems Architect**, and **Founding Engineer** opportunities.
