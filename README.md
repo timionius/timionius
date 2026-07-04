@@ -1,62 +1,60 @@
 # Hi, I'm Dmitry 👋
 
-**Principal Engineer focused on high-performance software, platform engineering, and systems programming.**
+**Principal Engineer specializing in software architecture, SDK development, systems programming, and high-performance applications.**
 
-For over 20 years I've been designing and building software across startups and enterprise environments—from low-level native libraries and cross-platform SDKs to cloud-native backend platforms and engineering organizations.
+For over 20 years I've been designing and building software across startups and enterprise environments—from enterprise systems and cloud-native backends to cross-platform SDKs and native libraries.
 
-I enjoy understanding how systems work, measuring trade-offs, and building software that's reliable, maintainable, and efficient.
+I enjoy solving complex engineering problems by building reusable software, designing clean abstractions, and understanding the trade-offs behind architecture, performance, and maintainability.
 
-## Public repositories
+## What you'll find here
 
-My GitHub primarily contains engineering experiments, benchmarking projects, and reference implementations.
+My GitHub isn't a portfolio of commercial products—it's an engineering notebook.
 
-These projects explore topics including:
+Most public repositories are experiments, benchmarks, and reference implementations where I explore:
 
 * **Systems programming** with Rust and C++
 * **Performance benchmarking** across languages, runtimes, and frameworks
-* **Cross-platform SDKs** and native interoperability (FFI, JNI, Kotlin Multiplatform)
-* **Software architecture** and implementation trade-offs
-* **Developer tooling** and infrastructure experiments
+* **SDK design** and native interoperability (FFI, JNI, Kotlin Multiplatform, UniFFI)
+* **Cross-platform software architecture**
+* **Engineering trade-offs** through practical prototypes and implementation experiments
 
-Rather than polished products, these repositories document my engineering process—exploring ideas, validating assumptions, and comparing approaches.
+These projects are less about delivering finished applications and more about understanding technologies, validating ideas, and building reusable engineering knowledge.
 
 ## Professional work
 
-Most of my production work isn't public.
+Most of the software I've built throughout my career isn't open source.
 
-Over the years I've designed and built:
+My professional experience includes designing and delivering:
 
-* Event-driven backend platforms
-* Cloud-native services
-* Cross-platform SDKs
-* Mobile and backend infrastructure
-* Engineering platforms used in production
+* Cross-platform SDKs and native libraries
+* Event-driven backend systems
+* Cloud-native application backends
+* Enterprise software platforms
+* Mobile infrastructure and shared application frameworks
 
-My recent work—including Rust infrastructure libraries and Solana Foundation-funded projects—is proprietary and protected by commercial agreements and NDAs.
+More recent work—including Rust-based SDKs exposing Solana on-chain programs to mobile applications and commercial systems developed for clients—is proprietary and protected by commercial agreements and NDAs.
 
-I'm always happy to discuss architecture, system design, performance engineering, and engineering leadership during technical interviews.
+I'm always happy to discuss software architecture, SDK design, systems programming, performance engineering, and engineering leadership during technical interviews.
 
 ## Technologies
 
-**Systems:** Rust • C++ • Python
+**Languages:** Rust • C++ • Kotlin • Swift • Python • TypeScript • Dart
 
-**Platform:** Kotlin • Swift • Kotlin Multiplatform • Flutter
+**Architecture:** Software Architecture • SDK Development • Cross-Platform Systems • Systems Programming • Performance Engineering
 
-**Architecture:** Platform Engineering • Event-Driven Systems • Cross-Platform SDKs • Performance Engineering
-
-**Infrastructure:** Docker • Google Cloud Platform • Firebase • CI/CD
+**Technologies:** Kotlin Multiplatform • UniFFI • FFI • JNI • Google Cloud Platform • Firebase • Docker • CI/CD
 
 ## Current interests
 
-* Platform Engineering
+* Software Architecture
 * Systems Programming
+* Cross-Platform SDKs
+* AI Applications
 * Developer Tools
-* AI Infrastructure
-* Web3 Infrastructure
-* High-Performance Software
+* Web3 Technologies
 
 ---
 
 📍 Tbilisi, Georgia • Remote-first
 
-Currently open to **Principal Engineer**, **Engineering Lead**, **Systems Architect**, and **Founding Engineer** opportunities.
+I'm currently open to opportunities as a **Principal Engineer**, **Systems Architect**, **Engineering Lead**, or **Founding Engineer**, where I can combine hands-on engineering with technical leadership to build robust software platforms and help teams solve complex technical challenges.
